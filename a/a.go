@@ -1,5 +1,5 @@
 package a
 
-func Foo() int {
-	return 2
+func Bazz() int {
+	return 3
 }
