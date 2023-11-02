@@ -1,0 +1,4 @@
+github.com/nicholasngai/test/a v0.1.0 h1:p5NDi0YgK0+2kym2YH0/ticGQkEW04PdBbie4FXtLeU=
+github.com/nicholasngai/test/a v0.1.0/go.mod h1:TOhTBJ+XGGMbRmSZtly+LbvvJQfzjxN7R2gJhDKDsDA=
+github.com/nicholasngai/test/b v0.1.0 h1:9kFE3kddDMf9s+53lKhJaEl/E1+3QFoYSGleM9g6ycM=
+github.com/nicholasngai/test/b v0.1.0/go.mod h1:rHs1Q0sFDgJ167P1xbjxMDqXrLkcw0NnJOxHDD1EBpU=
